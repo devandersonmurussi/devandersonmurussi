@@ -1,7 +1,7 @@
 ## Olá! 👋<br />
 😄 Meu nome é Anderson Murussi e sou do Brasil (BR). Trabalho como instrutor de cursos gerenciais desde 2017 nas áreas de gestão, educação e tecnologia na JamCoI Tecnologias Gerenciais e Educacionais.<br />
 ⚡ Possuo graduação em Administração de Empresas com aperfeiçoamento em EaD.<br />
-💞️ Tenho espaço no canal JamCoIPlay no YouTube onde apresento devs no laboratório de tecnologia, compartilhando muitas coisas por lá :)<br /><br />
+💞️ Tenho espaço nos canais JamConsultoriaCom e JamCoIPlay no YouTube onde apresento devs no laboratório de tecnologia, compartilhando muitas coisas por lá :)<br /><br />
 Se você gostar do meu conteúdo, considere me seguir, dar uma estrela nos meus repositórios ou até cloná-los para seu próprio uso! ⭐
 
 ## 📹 Vídeos recentes no YouTube!<br />
